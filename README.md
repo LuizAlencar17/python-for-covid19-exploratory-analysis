@@ -37,7 +37,7 @@ Each solution to a problem was solved by a ".ipynb" file, being grouped sequenti
 
 Well, let's understand a little about the main attributes of the Neuron class built.
 
-`` python
+```python
 # Creation of the neuron class
 n = Neuron ()
 
@@ -63,4 +63,4 @@ n.time
 n.x1
 n.x2
 
-``
+```
